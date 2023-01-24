@@ -1,20 +1,20 @@
 # Bikesharing
 
 ## Objective
-The mission of this analysis was to persuade investors to implement a much-needed bike sharing program in the city of Des Moines. In order to propose this great business plan, I had to convert the “tripduration” column within the Citi Bike file from an integer to a datetime datatype. From there the file was then used to create visuals in Tableau.
+The mission of this analysis was to persuade investors to implement a bike sharing program in the city of Des Moines. In order to propose this great business plan, I had to convert the “tripduration” column within the Citi Bike file from an integer to a datetime datatype. From there the file was then used to create visuals in Tableau.
 
 ## Results
 
 ![plot](Images/Checkout_Times_for_Users.png)
 
-* In August there were 2,344,224 bikes used. A majority of those bikes were used for less than 10 minutes.
+* In August there were 2,344,224 bikes used. A majority of those bikes were used for less than 20 minutes.
 
 
 ## 
 
 ![plot](Images/Checkout_Times_by_Gender.png)
 
-* Of those 2,344,224 bikes used, males were 3 times as likely than women to use the bikes for less than 10 minutes. 
+* Of those 2,344,224 bikes used, males were 3 times as likely than women to use the bikes for less than 20 minutes. 
 
 
 ## 
@@ -28,7 +28,7 @@ The mission of this analysis was to persuade investors to implement a much-neede
 
 ![plot](Images/Trips_by_Gender_(WeekdayperHour).png)
 
-* In the image above, 6pm on Thursday seems to be the time slot with the most male and female users. As for the unknown gender, 12pm on Saturday appears to have the maximum amount of users. 
+* In the image above, 6pm on Thursday seems to be the time slot with the most male and female users. As for the unknown gender, 12pm on Saturday appears to have the maximum amount of users. But for both male and female, we can see there that users are more likely to use the bikes for work commutes.
 
 
 ## 
