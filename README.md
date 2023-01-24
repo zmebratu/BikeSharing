@@ -54,3 +54,5 @@ The mission of this analysis was to persuade investors to implement a much-neede
 ## Summary
 After conducting the analysis, investing in a bike program would be a very beneficial and profitable business. There are almost 2.4 million users already using Citi Bike. Most individuals use the bikes for commutes to and from work or for weekend trips. We can see there is a necessity for these bikes. 
 To further my analysis, I would also research bike usage in other months. Are people using it less during the summer? Maybe the winter? Or is there a steady flow. In addition to this, I would determine how many bikes are need and what locations would be best for the customers. 
+
+[link to dashboard](https://public.tableau.com/app/profile/zenat1847)
