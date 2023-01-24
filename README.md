@@ -1,6 +1,6 @@
 # Bikesharing
 
-## Purpose
+## Objective
 The mission of this analysis was to persuade investors to implement a much-needed bike sharing program in the city of Des Moines. In order to propose this great business plan, I had to convert the “tripduration” column within the Citi Bike file from an integer to a datetime datatype. From there the file was then used to create visuals in Tableau.
 
 ## Results
@@ -14,7 +14,7 @@ The mission of this analysis was to persuade investors to implement a much-neede
 
 ![plot](Images/Checkout_Times_by_Gender.png)
 
-* Of those 2,344,224 bikes used, males were 3 times as likely than women to use the bikes for less than 10 minutes. Women were more likely to take longer trips than men.
+* Of those 2,344,224 bikes used, males were 3 times as likely than women to use the bikes for less than 10 minutes. 
 
 
 ## 
@@ -50,3 +50,7 @@ The mission of this analysis was to persuade investors to implement a much-neede
 ![plot](Images/Customers.png)
 
 * Out of the total users in August, 1,900,359 are subscribers and 443,865 are customers.
+
+## Summary
+After conducting the analysis, investing in a bike program would be a very beneficial and profitable business. There are almost 2.4 million users already using Citi Bike. Most individuals use the bikes for commutes to and from work or for weekend trips. We can see there is a necessity for these bikes. 
+To further my analysis, I would also research bike usage in other months. Are people using it less during the summer? Maybe the winter? Or is there a steady flow. In addition to this, I would determine how many bikes are need and what locations would be best for the customers. 
