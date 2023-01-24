@@ -5,7 +5,7 @@ The mission of this analysis was to persuade investors to implement a much-neede
 
 ## Results
 
-### Checkout Times for Users
+##
 
 ![plot](Images/Checkout_Times_for_Users.png)
 
