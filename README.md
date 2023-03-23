@@ -1,7 +1,7 @@
 # Bikesharing
 
 ## Objective
-The mission of this analysis was to persuade investors to implement a bike sharing program in the city of Des Moines. In order to propose this great business plan, I had to convert the “tripduration” column within the Citi Bike file from an integer to a datetime datatype. From there the file was then used to create visuals in Tableau.
+The objective of this analysis was to convince investors to launch a bike-sharing program in Des Moines. To present this compelling business proposal, I first converted the "tripduration" column in the Citi Bike dataset from an integer to a datetime data type. Then, I used the dataset to generate visualizations in Tableau.
 
 ## Results
 
