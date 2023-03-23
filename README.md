@@ -52,7 +52,16 @@ The objective of this analysis was to convince investors to launch a bike-sharin
 * Out of the total users in August, 1,900,359 are subscribers and 443,865 are customers.
 
 ## Summary
-After conducting the analysis, investing in a bike program would be a very beneficial and profitable business. There are almost 2.4 million users already using Citi Bike. Most individuals use the bikes for commutes to and from work or for weekend trips. We can see there is a necessity for these bikes. 
-To further my analysis, I would also research bike usage in other months. Are people using it less during the summer? Maybe the winter? Or is there a steady flow. In addition to this, I would determine how many bikes are need and what locations would be best for the customers. 
+The pie chart revealed that the number of subscribers exceeds the number of customers, indicating a preference for a fixed subscription fee, which allows users to access the bikes whenever they need them. This also suggests that many users are residents rather than tourists.
+
+The majority of users are male, suggesting that they are a key target demographic for future expansion.
+
+As there are more starting points in the Downtown area, it is necessary to ensure that there are enough bikes available in that location to meet the demand.
+
+Demand for bikes is higher during weekdays from 7-9 am and 4-7 pm, due to the work schedule of most people. On weekends, demand is more consistent throughout the day as people have more free time to explore the city.
+
+It's important to note that Des Moines has a population of 212,031 compared to New York City's population of 8.468 million, requiring data adjustment to create effective business strategies.
+
+For future analysis, I recommend creating visualizations that display user demographics by birth year to determine the age ranges of users and develop targeted marketing campaigns. Additionally, a heatmap showing the start time of trips could be helpful for scheduling bike maintenance to avoid peak hours.
 
 [link to dashboard](https://public.tableau.com/app/profile/zenat1847)
